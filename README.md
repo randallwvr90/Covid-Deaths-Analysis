@@ -1,17 +1,17 @@
 # COVID-19 Vaccine Research
 
 ## Team Members
-Randy Weaver
-Hannah Harrison
-Yang "Doris" Yu
-Abishua Prashanth
+* Randy Weaver
+* Hannah Harrison
+* Yang "Doris" Yu
+* Abishua Prashanth
 
 ## Project Description
-This project is about the different covid vaccines that are currently on the market. 
-The team will research various vaccines and case data to find differences among the vaccines that are currently available.
+* This project is about the different covid vaccines that are currently on the market. 
+* The team will research various vaccines and case data to find differences among the vaccines that are currently available.
 
 ## Data Sets to be Used
-TBD - vaccine data 
+* TBD - vaccine data 
 
 ## Rough Breakdown of Tasks
 * Create the Repo and add all team members - Randy - Complete
