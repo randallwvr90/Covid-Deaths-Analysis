@@ -1,5 +1,12 @@
 # COVID-19 Vaccine Research
 
+## Table of Contents
+* [Team Members](#teammembers)
+* [Project Description](#projectdescription)
+* [Data Sets to be Used](#datasetstobeused)
+* [Rough Breakdown of Tasks](#roughbreakdownoftasks)
+* [Research Questions to Answer](#researchquestionstoanswer)
+
 ## Team Members
 * Randy Weaver
 * Hannah Harrison
