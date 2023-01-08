@@ -1,5 +1,7 @@
 # COVID-19 Vaccine Research
 
+## What factors influence the number of deaths from COVID-19?
+
 ## Table of Contents
 * [Team Members](#teammembers)
 * [Project Description](#projectdescription)
